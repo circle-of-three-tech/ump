@@ -1,0 +1,2348 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "institutions": [
+        "American University of Afghanistan",
+        "Kabul University",
+        "Herat University",
+        "Nangarhar University", 
+        "Balkh University",
+        "Kandahar University",
+        "Kabul Polytechnic University",
+        "Kabul Medical University"
+      ]
+    },
+    {
+      "name": "Albania",
+      "institutions": [
+        "University of Tirana",
+        "Polytechnic University of Tirana",
+        "Agricultural University of Tirana",
+        "University of Shkodra",
+        "University of Elbasan",
+        "University of Korçë",
+        "University of Vlora",
+        "European University of Tirana",
+        "Epoka University"
+      ]
+    },
+    {
+      "name": "Algeria",
+      "institutions": [
+        "University of Algiers",
+        "University of Constantine",
+        "University of Oran",
+        "University of Batna",
+        "University of Annaba",
+        "University of Blida",
+        "University of Tlemcen",
+        "University of Sétif",
+        "University of Tizi Ouzou"
+      ]
+    },
+    {
+      "name": "Andorra",
+      "institutions": [
+        "University of Andorra"
+      ]
+    },
+    {
+      "name": "Angola",
+      "institutions": [
+        "Agostinho Neto University",
+        "Catholic University of Angola",
+        "Jean Piaget University of Angola",
+        "Universidade Lusíada de Angola",
+        "Universidade Metodista de Angola",
+        "Universidade Independente de Angola"
+      ]
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "institutions": [
+        "University of the West Indies",
+        "American University of Antigua",
+        "University of Health Sciences Antigua"
+      ]
+    },
+    {
+      "name": "Argentina",
+      "institutions": [
+        "University of Buenos Aires",
+        "National University of Córdoba",
+        "National University of La Plata",
+        "National University of Rosario",
+        "Pontifical Catholic University of Argentina",
+        "National Technological University",
+        "National University of Cuyo",
+        "Austral University",
+        "University of San Andrés"
+      ]
+    },
+    {
+      "name": "Armenia",
+      "institutions": [
+        "Yerevan State University",
+        "American University of Armenia",
+        "Russian-Armenian University",
+        "Yerevan State Medical University",
+        "State Engineering University of Armenia",
+        "Armenian State Pedagogical University",
+        "Yerevan State Linguistic University"
+      ]
+    },
+    {
+      "name": "Australia",
+      "institutions": [
+        "University of Sydney",
+        "University of Melbourne",
+        "Australian National University",
+        "University of Queensland",
+        "Monash University",
+        "University of New South Wales",
+        "University of Western Australia",
+        "University of Adelaide",
+        "University of Technology Sydney",
+        "Macquarie University",
+        "RMIT University",
+        "Curtin University",
+        "Deakin University",
+        "Queensland University of Technology",
+        "University of Wollongong"
+      ]
+    },
+    {
+      "name": "Austria",
+      "institutions": [
+        "University of Vienna",
+        "Vienna University of Technology",
+        "University of Graz",
+        "University of Innsbruck",
+        "University of Salzburg",
+        "Johannes Kepler University Linz",
+        "Medical University of Vienna",
+        "Medical University of Graz",
+        "Vienna University of Economics and Business"
+      ]
+    },
+    {
+      "name": "Azerbaijan",
+      "institutions": [
+        "Baku State University",
+        "Azerbaijan State Oil and Industry University",
+        "Azerbaijan Technical University",
+        "Azerbaijan Medical University",
+        "ADA University",
+        "Khazar University",
+        "Azerbaijan University of Languages",
+        "Baku Engineering University"
+      ]
+    },
+    {
+      "name": "Bahamas",
+      "institutions": [
+        "University of The Bahamas",
+        "University of the West Indies"
+      ]
+    },
+    {
+      "name": "Bahrain",
+      "institutions": [
+        "University of Bahrain",
+        "Gulf University",
+        "Ahlia University",
+        "Arabian Gulf University",
+        "Royal University for Women",
+        "Applied Science University",
+        "Bahrain Polytechnic"
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "institutions": [
+        "University of Dhaka",
+        "Bangladesh University of Engineering and Technology",
+        "Jahangirnagar University",
+        "University of Chittagong",
+        "Rajshahi University",
+        "BRAC University",
+        "North South University",
+        "East West University",
+        "Bangladesh Agricultural University"
+      ]
+    },
+    {
+      "name": "Barbados",
+      "institutions": [
+        "University of the West Indies at Cave Hill",
+        "Barbados Community College",
+        "Ross University School of Medicine"
+      ]
+    },
+    {
+      "name": "Belarus",
+      "institutions": [
+        "Belarusian State University",
+        "Belarusian National Technical University",
+        "Belarusian State Economic University",
+        "Belarusian State Medical University",
+        "Belarusian State Pedagogical University",
+        "Belarusian State University of Informatics and Radioelectronics",
+        "Minsk State Linguistic University"
+      ]
+    },
+    {
+      "name": "Belgium",
+      "institutions": [
+        "KU Leuven",
+        "Ghent University",
+        "University of Liège",
+        "Université Catholique de Louvain",
+        "Vrije Universiteit Brussel",
+        "University of Antwerp",
+        "Université Libre de Bruxelles",
+        "University of Mons",
+        "Hasselt University"
+      ]
+    },
+    {
+      "name": "Belize",
+      "institutions": [
+        "University of Belize",
+        "Galen University",
+        "American Global University School of Medicine"
+      ]
+    },
+    {
+      "name": "Benin",
+      "institutions": [
+        "University of Abomey-Calavi",
+        "University of Parakou",
+        "National University of Agriculture",
+        "African School of Economics",
+        "Catholic University of West Africa"
+      ]
+    },
+    {
+      "name": "Bhutan",
+      "institutions": [
+        "Royal University of Bhutan",
+        "Khesar Gyalpo University of Medical Sciences",
+        "Jigme Singye Wangchuck School of Law"
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "institutions": [
+        "Universidad Mayor de San Andrés",
+        "Universidad Mayor de San Simón",
+        "Universidad Católica Boliviana San Pablo",
+        "Universidad Privada Boliviana",
+        "Universidad Autónoma Gabriel René Moreno",
+        "Universidad Franz Tamayo",
+        "Universidad Privada del Valle"
+      ]
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "institutions": [
+        "University of Sarajevo",
+        "University of Banja Luka",
+        "University of Mostar",
+        "University of East Sarajevo",
+        "University of Tuzla",
+        "University of Zenica",
+        "International University of Sarajevo",
+        "Sarajevo School of Science and Technology"
+      ]
+    },
+    {
+      "name": "Botswana",
+      "institutions": [
+        "University of Botswana",
+        "Botswana International University of Science and Technology",
+        "Botswana University of Agriculture and Natural Resources",
+        "Botswana Open University",
+        "Botho University"
+      ]
+    },
+    {
+      "name": "Brazil",
+      "institutions": [
+        "University of São Paulo",
+        "State University of Campinas",
+        "Federal University of Rio de Janeiro",
+        "Federal University of Minas Gerais",
+        "Federal University of Rio Grande do Sul",
+        "São Paulo State University",
+        "Federal University of São Paulo",
+        "Federal University of Santa Catarina",
+        "Federal University of Paraná",
+        "Pontifical Catholic University of Rio de Janeiro"
+      ]
+    },
+    {
+      "name": "Brunei",
+      "institutions": [
+        "Universiti Brunei Darussalam",
+        "Sultan Sharif Ali Islamic University",
+        "Technological University of Brunei",
+        "Politeknik Brunei",
+        "Laksamana College of Business"
+      ]
+    },
+    {
+      "name": "Bulgaria",
+      "institutions": [
+        "Sofia University",
+        "Technical University of Sofia",
+        "Plovdiv University",
+        "Medical University of Sofia",
+        "University of National and World Economy",
+        "Technical University of Varna",
+        "American University in Bulgaria",
+        "New Bulgarian University"
+      ]
+    },
+    {
+      "name": "Burkina Faso",
+      "institutions": [
+        "University of Ouagadougou",
+        "University of Koudougou",
+        "University of Bobo Dioulasso",
+        "International Institute for Water and Environmental Engineering",
+        "Catholic University of West Africa"
+      ]
+    },
+    {
+      "name": "Burundi",
+      "institutions": [
+        "University of Burundi",
+        "Lumière University of Bujumbura",
+        "Hope Africa University",
+        "International University of Equator",
+        "University of Lake Tanganyika"
+      ]
+    },
+    {
+      "name": "Cambodia",
+      "institutions": [
+        "Royal University of Phnom Penh",
+        "Royal University of Law and Economics",
+        "Royal University of Fine Arts",
+        "Royal University of Agriculture",
+        "Institute of Technology of Cambodia",
+        "University of Health Sciences Cambodia",
+        "Pannasastra University of Cambodia",
+        "Norton University"
+      ]
+    },
+    {
+      "name": "Cameroon",
+      "institutions": [
+        "University of Yaoundé I",
+        "University of Yaoundé II",
+        "University of Douala",
+        "University of Buea",
+        "University of Dschang",
+        "University of Ngaoundéré",
+        "Catholic University of Central Africa",
+        "Catholic University of Cameroon"
+      ]
+    },
+    {
+      "name": "Canada",
+      "institutions": [
+        "University of Toronto",
+        "McGill University",
+        "University of British Columbia",
+        "University of Alberta",
+        "McMaster University",
+        "University of Montreal",
+        "University of Waterloo",
+        "University of Calgary",
+        "Queen's University",
+        "Western University",
+        "Simon Fraser University",
+        "University of Ottawa",
+        "Dalhousie University",
+        "University of Victoria",
+        "Laval University"
+      ]
+    },
+    {
+      "name": "Cape Verde",
+      "institutions": [
+        "University of Cape Verde",
+        "Jean Piaget University of Cape Verde",
+        "Lusófona University of Cape Verde",
+        "University of Santiago",
+        "Mindelo University"
+      ]
+    },
+    {
+      "name": "Central African Republic",
+      "institutions": [
+        "University of Bangui",
+        "Euclid University"
+      ]
+    },
+    {
+      "name": "Chad",
+      "institutions": [
+        "University of N'Djamena",
+        "Adam Barka University",
+        "King Faisal University",
+        "University of Moundou",
+        "University of Doba"
+      ]
+    },
+    {
+      "name": "Chile",
+      "institutions": [
+        "Pontifical Catholic University of Chile",
+        "University of Chile",
+        "Universidad de Concepción",
+        "Universidad Técnica Federico Santa María",
+        "Pontificia Universidad Católica de Valparaíso",
+        "Universidad de Santiago de Chile",
+        "Universidad Austral de Chile",
+        "Universidad Adolfo Ibáñez",
+        "Universidad Diego Portales"
+      ]
+    },
+    {
+      "name": "China",
+      "institutions": [
+        "Tsinghua University",
+        "Peking University",
+        "Fudan University",
+        "Shanghai Jiao Tong University",
+        "Zhejiang University",
+        "University of Science and Technology of China",
+        "Nanjing University",
+        "Wuhan University",
+        "Sun Yat-sen University",
+        "Harbin Institute of Technology",
+        "Beijing Normal University",
+        "Xi'an Jiaotong University",
+        "Tianjin University",
+        "Tongji University",
+        "Renmin University of China"
+      ]
+    },
+    {
+      "name": "Colombia",
+      "institutions": [
+        "Universidad Nacional de Colombia",
+        "Universidad de los Andes",
+        "Pontificia Universidad Javeriana",
+        "Universidad de Antioquia",
+        "Universidad del Valle",
+        "Universidad del Rosario",
+        "Universidad Industrial de Santander",
+        "Universidad de La Sabana",
+        "Universidad EAFIT",
+        "Universidad del Norte"
+      ]
+    },
+    {
+      "name": "Comoros",
+      "institutions": [
+        "University of the Comoros"
+      ]
+    },
+    {
+      "name": "Congo (Democratic Republic)",
+      "institutions": [
+        "University of Kinshasa",
+        "University of Lubumbashi",
+        "Protestant University of Congo",
+        "Catholic University of Congo",
+        "University of Kisangani",
+        "American University of Kinshasa",
+        "Université Pédagogique Nationale"
+      ]
+    },
+    {
+      "name": "Congo (Republic)",
+      "institutions": [
+        "Marien Ngouabi University",
+        "Free University of Congo",
+        "Catholic University of Congo"
+      ]
+    },
+    {
+      "name": "Costa Rica",
+      "institutions": [
+        "University of Costa Rica",
+        "National University of Costa Rica",
+        "Costa Rica Institute of Technology",
+        "Universidad Latina de Costa Rica",
+        "Universidad Nacional Estatal a Distancia",
+        "EARTH University",
+        "INCAE Business School",
+        "Universidad Veritas"
+      ]
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "institutions": [
+        "Félix Houphouët-Boigny University",
+        "University of Cocody",
+        "University of Abobo-Adjame",
+        "University of Grand-Bassam",
+        "University of Man",
+        "Institut National Polytechnique Félix Houphouët-Boigny",
+        "Catholic University of West Africa"
+      ]
+    },
+    {
+      "name": "Croatia",
+      "institutions": [
+        "University of Zagreb",
+        "University of Split",
+        "University of Rijeka",
+        "University of Osijek",
+        "University of Zadar",
+        "University of Dubrovnik",
+        "University of Pula",
+        "Zagreb School of Economics and Management",
+        "Rochester Institute of Technology Croatia"
+      ]
+    },
+    {
+      "name": "Cuba",
+      "institutions": [
+        "University of Havana",
+        "Universidad de Oriente",
+        "Universidad Central de Las Villas",
+        "Universidad de Cienfuegos",
+        "Universidad de Camagüey",
+        "Universidad de Pinar del Río",
+        "Higher Institute of Medical Sciences of Havana",
+        "Instituto Superior Politécnico José Antonio Echeverría"
+      ]
+    },
+    {
+      "name": "Cyprus",
+      "institutions": [
+        "University of Cyprus",
+        "Cyprus University of Technology",
+        "Open University of Cyprus",
+        "European University Cyprus",
+        "University of Nicosia",
+        "Frederick University",
+        "University of Central Lancashire Cyprus",
+        "Eastern Mediterranean University"
+      ]
+    },
+    {
+      "name": "Czech Republic",
+      "institutions": [
+        "Charles University",
+        "Czech Technical University in Prague",
+        "Masaryk University",
+        "Palacký University Olomouc",
+        "Czech University of Life Sciences Prague",
+        "Brno University of Technology",
+        "University of Economics, Prague",
+        "University of West Bohemia",
+        "University of Chemistry and Technology, Prague"
+      ]
+    },
+    {
+      "name": "Denmark",
+      "institutions": [
+        "University of Copenhagen",
+        "Technical University of Denmark",
+        "Aarhus University",
+        "University of Southern Denmark",
+        "Aalborg University",
+        "Copenhagen Business School",
+        "Roskilde University",
+        "IT University of Copenhagen"
+      ]
+    },
+    {
+      "name": "Djibouti",
+      "institutions": [
+        "University of Djibouti"
+      ]
+    },
+    {
+      "name": "Dominica",
+      "institutions": [
+        "Ross University School of Medicine",
+        "Dominica State College",
+        "All Saints University School of Medicine"
+      ]
+    },
+    {
+      "name": "Dominican Republic",
+      "institutions": [
+        "Universidad Autónoma de Santo Domingo",
+        "Pontificia Universidad Católica Madre y Maestra",
+        "Universidad Iberoamericana",
+        "Universidad APEC",
+        "Universidad Nacional Pedro Henríquez Ureña",
+        "Instituto Tecnológico de Santo Domingo",
+        "Universidad Católica de Santo Domingo"
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "institutions": [
+        "Universidad San Francisco de Quito",
+        "Escuela Politécnica Nacional",
+        "Pontificia Universidad Católica del Ecuador",
+        "Universidad de Cuenca",
+        "Universidad Central del Ecuador",
+        "Escuela Superior Politécnica del Litoral",
+        "Universidad Técnica Particular de Loja",
+        "Universidad de las Américas Ecuador"
+      ]
+    },
+    {
+      "name": "Egypt",
+      "institutions": [
+        "Cairo University",
+        "American University in Cairo",
+        "Ain Shams University",
+        "Alexandria University",
+        "Mansoura University",
+        "Assiut University",
+        "British University in Egypt",
+        "German University in Cairo",
+        "Egypt-Japan University of Science and Technology"
+      ]
+    },
+    {
+      "name": "El Salvador",
+      "institutions": [
+        "University of El Salvador",
+        "Central American University José Simeón Cañas",
+        "Universidad Dr. José Matías Delgado",
+        "Universidad Tecnológica de El Salvador",
+        "Universidad Don Bosco",
+        "Universidad Francisco Gavidia",
+        "Universidad Evangélica de El Salvador"
+      ]
+    },
+    {
+      "name": "Equatorial Guinea",
+      "institutions": [
+        "National University of Equatorial Guinea"
+      ]
+    },
+    {
+      "name": "Eritrea",
+      "institutions": [
+        "University of Asmara",
+        "Eritrea Institute of Technology",
+        "Hamelmalo Agricultural College",
+        "College of Marine Science and Technology"
+      ]
+    },
+    {
+      "name": "Estonia",
+      "institutions": [
+        "University of Tartu",
+        "Tallinn University of Technology",
+        "Tallinn University",
+        "Estonian University of Life Sciences",
+        "Estonian Academy of Arts",
+        "Estonian Business School",
+        "Estonian Academy of Music and Theatre"
+      ]
+    },
+    {
+      "name": "Eswatini",
+      "institutions": [
+        "University of Eswatini",
+        "Southern Africa Nazarene University",
+        "Limkokwing University of Creative Technology",
+        "Eswatini Medical Christian University"
+      ]
+    },
+    {
+      "name": "Ethiopia",
+      "institutions": [
+        "Addis Ababa University",
+        "Bahir Dar University",
+        "Jimma University",
+        "Mekelle University",
+        "Hawassa University",
+        "Adama Science and Technology University",
+        "University of Gondar",
+        "Haramaya University"
+      ]
+    },
+    {
+      "name": "Fiji",
+      "institutions": [
+        "University of the South Pacific",
+        "Fiji National University",
+        "University of Fiji"
+      ]
+    },
+    {
+      "name": "Finland",
+      "institutions": [
+        "University of Helsinki",
+        "Aalto University",
+        "University of Turku",
+        "University of Oulu",
+        "University of Jyväskylä",
+        "University of Eastern Finland",
+        "Tampere University",
+        "LUT University",
+        "University of Vaasa"
+      ]
+    },
+    {
+      "name": "France",
+      "institutions": [
+        "Paris Sciences et Lettres University",
+        "Sorbonne University",
+        "University of Paris",
+        "Paris-Saclay University",
+        "École Polytechnique",
+        "CentraleSupélec",
+        "Sciences Po",
+        "École Normale Supérieure",
+        "HEC Paris",
+        "INSEAD",
+        "Université Paris 1 Panthéon-Sorbonne",
+        "Aix-Marseille University",
+        "University of Strasbourg",
+        "University of Bordeaux",
+        "University of Lyon"
+      ]
+    },
+    {
+      "name": "Gabon",
+      "institutions": [
+        "Omar Bongo University",
+        "University of Science and Technology of Masuku",
+        "Health Sciences University",
+        "International University of Libreville"
+      ]
+    },
+    {
+      "name": "Gambia",
+      "institutions": [
+        "University of The Gambia",
+        "American International University West Africa",
+        "Gambia Technical Training Institute"
+      ]
+    },
+    {
+      "name": "Georgia",
+      "institutions": [
+        "Tbilisi State University",
+        "Georgian Technical University",
+        "Ilia State University",
+        "Free University of Tbilisi",
+        "Tbilisi State Medical University",
+        "Georgian American University",
+        "International Black Sea University",
+        "Caucasus University"
+      ]
+    },
+    {
+      "name": "Germany",
+      "institutions": [
+        "Ludwig Maximilian University of Munich",
+        "Technical University of Munich",
+        "Heidelberg University",
+        "Humboldt University of Berlin",
+        "Free University of Berlin",
+        "RWTH Aachen University",
+        "University of Tübingen",
+        "University of Freiburg",
+        "Technical University of Berlin",
+        "University of Hamburg",
+        "University of Bonn",
+        "University of Göttingen",
+        "University of Cologne",
+        "University of Frankfurt",
+        "Karlsruhe Institute of Technology"
+      ]
+    },
+    {
+      "name": "Ghana",
+      "institutions": [
+        "University of Ghana",
+        "Kwame Nkrumah University of Science and Technology",
+        "University of Cape Coast",
+        "University of Education, Winneba",
+        "University for Development Studies",
+        "Ghana Institute of Management and Public Administration",
+        "Ashesi University",
+        "University of Health and Allied Sciences"
+      ]
+    },
+    {
+      "name": "Greece",
+      "institutions": [
+        "National and Kapodistrian University of Athens",
+        "Aristotle University of Thessaloniki",
+        "National Technical University of Athens",
+        "Athens University of Economics and Business",
+        "University of Patras",
+        "University of Crete",
+        "University of Ioannina",
+        "University of the Aegean",
+        "University of Thessaly"
+      ]
+    },
+    {
+      "name": "Grenada",
+      "institutions": [
+        "St. George's University",
+        "T.A. Marryshow Community College",
+        "University of the West Indies"
+      ]
+    },
+    {
+      "name": "Guatemala",
+      "institutions": [
+        "Universidad de San Carlos de Guatemala",
+        "Universidad del Valle de Guatemala",
+        "Universidad Francisco Marroquín",
+        "Universidad Rafael Landívar",
+        "Universidad Galileo",
+        "Universidad Mariano Gálvez",
+        "Universidad Rural de Guatemala"
+      ]
+    },
+    {
+      "name": "Guinea",
+      "institutions": [
+        "University of Conakry",
+        "Gamal Abdel Nasser University of Conakry",
+        "University of Kankan",
+        "University of N'Zérékoré",
+        "Institut Supérieur des Mines et Géologie de Boké"
+      ]
+    },
+    {
+      "name": "Guinea-Bissau",
+      "institutions": [
+        "University Amílcar Cabral",
+        "Jean Piaget University of Guinea-Bissau",
+        "University of Colinas de Boé"
+      ]
+    },
+    {
+      "name": "Guyana",
+      "institutions": [
+        "University of Guyana",
+        "Green Heart Medical University",
+        "Texila American University",
+        "American International School of Medicine"
+      ]
+    },
+    {
+      "name": "Haiti",
+      "institutions": [
+        "State University of Haiti",
+        "Quisqueya University",
+        "Université Notre Dame d'Haïti",
+        "Université Caraïbe",
+        "Université Chrétienne du Nord d'Haïti",
+        "American University of the Caribbean"
+      ]
+    },
+    {
+      "name": "Honduras",
+      "institutions": [
+        "National Autonomous University of Honduras",
+        "Universidad Pedagógica Nacional Francisco Morazán",
+        "Universidad Tecnológica Centroamericana",
+        "Universidad Católica de Honduras",
+        "Zamorano University",
+        "Universidad Tecnológica de Honduras",
+        "Universidad José Cecilio del Valle"
+      ]
+    },
+    {
+      "name": "Hungary",
+      "institutions": [
+        "Eötvös Loránd University",
+        "University of Szeged",
+        "University of Debrecen",
+        "Budapest University of Technology and Economics",
+        "Semmelweis University",
+        "University of Pécs",
+        "Corvinus University of Budapest",
+        "Central European University",
+        "Szent István University"
+      ]
+    },
+    {
+      "name": "Iceland",
+      "institutions": [
+        "University of Iceland",
+        "Reykjavík University",
+        "University of Akureyri",
+        "Bifröst University",
+        "Agricultural University of Iceland",
+        "Iceland University of the Arts"
+      ]
+    },
+    {
+      "name": "India",
+      "institutions": [
+        "Indian Institute of Science",
+        "Indian Institute of Technology Bombay",
+        "Indian Institute of Technology Delhi",
+        "Indian Institute of Technology Madras",
+        "Indian Institute of Technology Kanpur",
+        "Indian Institute of Technology Kharagpur",
+        "University of Delhi",
+        "Jawaharlal Nehru University",
+        "All India Institute of Medical Sciences",
+        "Indian Institute of Management Ahmedabad",
+        "Indian Institute of Management Bangalore",
+        "Banaras Hindu University",
+        "Jadavpur University",
+        "Manipal Academy of Higher Education",
+        "Tata Institute of Fundamental Research"
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "institutions": [
+        "University of Indonesia",
+        "Bandung Institute of Technology",
+        "Gadjah Mada University",
+        "Bogor Agricultural University",
+        "Airlangga University",
+        "Sepuluh Nopember Institute of Technology",
+        "Diponegoro University",
+        "Brawijaya University",
+        "Padjadjaran University",
+        "Bina Nusantara University"
+      ]
+    },
+    {
+      "name": "Iran",
+      "institutions": [
+        "Sharif University of Technology",
+        "University of Tehran",
+        "Amirkabir University of Technology",
+        "Iran University of Science and Technology",
+        "Shahid Beheshti University",
+        "Tarbiat Modares University",
+        "Isfahan University of Technology",
+        "K.N. Toosi University of Technology",
+        "Shiraz University",
+        "Ferdowsi University of Mashhad"
+      ]
+    },
+    {
+      "name": "Iraq",
+      "institutions": [
+        "University of Baghdad",
+        "University of Mosul",
+        "University of Basrah",
+        "University of Technology, Iraq",
+        "Al-Nahrain University",
+        "Mustansiriyah University",
+        "University of Kufa",
+        "University of Duhok",
+        "University of Sulaimani"
+      ]
+    },
+    {
+      "name": "Ireland",
+      "institutions": [
+        "Trinity College Dublin",
+        "University College Dublin",
+        "National University of Ireland, Galway",
+        "University College Cork",
+        "Dublin City University",
+        "Maynooth University",
+        "University of Limerick",
+        "Technological University Dublin",
+        "Royal College of Surgeons in Ireland"
+      ]
+    },
+    {
+      "name": "Israel",
+      "institutions": [
+        "Hebrew University of Jerusalem",
+        "Technion – Israel Institute of Technology",
+        "Weizmann Institute of Science",
+        "Tel Aviv University",
+        "Ben-Gurion University of the Negev",
+        "Bar-Ilan University",
+        "University of Haifa",
+        "Open University of Israel",
+        "Ariel University"
+      ]
+    },
+    {
+      "name": "Italy",
+      "institutions": [
+        "University of Bologna",
+        "Sapienza University of Rome",
+        "Politecnico di Milano",
+        "University of Padua",
+        "University of Milan",
+        "University of Pisa",
+        "University of Naples Federico II",
+        "Politecnico di Torino",
+        "University of Florence",
+        "University of Turin",
+        "University of Trento",
+        "University of Genoa",
+        "Bocconi University",
+        "University of Rome Tor Vergata",
+        "Catholic University of the Sacred Heart"
+      ]
+    },
+    {
+      "name": "Jamaica",
+      "institutions": [
+        "University of the West Indies at Mona",
+        "University of Technology, Jamaica",
+        "Northern Caribbean University",
+        "Caribbean Maritime University",
+        "University of the Commonwealth Caribbean"
+      ]
+    },
+    {
+      "name": "Japan",
+      "institutions": [
+        "University of Tokyo",
+        "Kyoto University",
+        "Osaka University",
+        "Tohoku University",
+        "Tokyo Institute of Technology",
+        "Nagoya University",
+        "Hokkaido University",
+        "Kyushu University",
+        "Waseda University",
+        "Keio University",
+        "University of Tsukuba",
+        "Hiroshima University",
+        "Kobe University",
+        "Okayama University",
+        "Chiba University"
+      ]
+    },
+    {
+      "name": "Jordan",
+      "institutions": [
+        "University of Jordan",
+        "Jordan University of Science and Technology",
+        "Yarmouk University",
+        "Hashemite University",
+        "Princess Sumaya University for Technology",
+        "German Jordanian University",
+        "Applied Science Private University",
+        "Philadelphia University",
+        "Al-Balqa Applied University"
+      ]
+    },
+    {
+      "name": "Kazakhstan",
+      "institutions": [
+        "Nazarbayev University",
+        "Al-Farabi Kazakh National University",
+        "L.N. Gumilyov Eurasian National University",
+        "Kazakh National Research Technical University",
+        "KIMEP University",
+        "Kazakh-British Technical University",
+        "South Kazakhstan State University",
+        "Satbayev University"
+      ]
+    },
+    {
+      "name": "Kenya",
+      "institutions": [
+        "University of Nairobi",
+        "Kenyatta University",
+        "Moi University",
+        "Strathmore University",
+        "Jomo Kenyatta University of Agriculture and Technology",
+        "Egerton University",
+        "United States International University Africa",
+        "Mount Kenya University",
+        "Catholic University of Eastern Africa"
+      ]
+    },
+    {
+      "name": "Kiribati",
+      "institutions": [
+        "University of the South Pacific - Kiribati Campus",
+        "Kiribati Institute of Technology"
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "institutions": [
+        "University of Pristina",
+        "University of Prizren",
+        "University of Mitrovica",
+        "University for Business and Technology",
+        "Rochester Institute of Technology Kosovo",
+        "AAB College",
+        "ILIRIA College"
+      ]
+    },
+    {
+      "name": "Kuwait",
+      "institutions": [
+        "Kuwait University",
+        "American University of Kuwait",
+        "Gulf University for Science and Technology",
+        "Australian College of Kuwait",
+        "Kuwait College of Science and Technology",
+        "Arab Open University - Kuwait",
+        "American University of the Middle East"
+      ]
+    },
+    {
+      "name": "Kyrgyzstan",
+      "institutions": [
+        "Kyrgyz National University",
+        "Kyrgyz-Russian Slavic University",
+        "American University of Central Asia",
+        "Kyrgyz State Technical University",
+        "Kyrgyz-Turkish Manas University",
+        "International University of Kyrgyzstan",
+        "Bishkek Humanities University",
+        "Osh State University"
+      ]
+    },
+    {
+      "name": "Laos",
+      "institutions": [
+        "National University of Laos",
+        "Souphanouvong University",
+        "Savannakhet University",
+        "Champasack University",
+        "University of Health Sciences",
+        "Lao-American College",
+        "Lao-Japan Institute"
+      ]
+    },
+    {
+      "name": "Latvia",
+      "institutions": [
+        "University of Latvia",
+        "Riga Technical University",
+        "Riga Stradiņš University",
+        "Latvia University of Life Sciences and Technologies",
+        "Daugavpils University",
+        "Liepaja University",
+        "Stockholm School of Economics in Riga",
+        "BA School of Business and Finance"
+      ]
+    },
+    {
+      "name": "Lebanon",
+      "institutions": [
+        "American University of Beirut",
+        "Lebanese American University",
+        "Saint Joseph University",
+        "Lebanese University",
+        "Notre Dame University–Louaize",
+        "Holy Spirit University of Kaslik",
+        "Beirut Arab University",
+        "Haigazian University"
+      ]
+    },
+    {
+      "name": "Lesotho",
+      "institutions": [
+        "National University of Lesotho",
+        "Limkokwing University of Creative Technology - Lesotho",
+        "Lesotho Agricultural College",
+        "Lerotholi Polytechnic",
+        "Lesotho College of Education"
+      ]
+    },
+    {
+      "name": "Liberia",
+      "institutions": [
+        "University of Liberia",
+        "Cuttington University",
+        "United Methodist University",
+        "African Methodist Episcopal University",
+        "Stella Maris Polytechnic",
+        "Tubman University"
+      ]
+    },
+    {
+      "name": "Libya",
+      "institutions": [
+        "University of Tripoli",
+        "University of Benghazi",
+        "Libyan International Medical University",
+        "Omar Al-Mukhtar University",
+        "Sirte University",
+        "Sebha University",
+        "University of Zawia",
+        "Academy of Graduate Studies"
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "institutions": [
+        "University of Liechtenstein",
+        "Private University in the Principality of Liechtenstein",
+        "International Academy of Philosophy"
+      ]
+    },
+    {
+      "name": "Lithuania",
+      "institutions": [
+        "Vilnius University",
+        "Vilnius Gediminas Technical University",
+        "Kaunas University of Technology",
+        "Vytautas Magnus University",
+        "Lithuanian University of Health Sciences",
+        "Mykolas Romeris University",
+        "Klaipėda University",
+        "Lithuanian Academy of Music and Theatre"
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "institutions": [
+        "University of Luxembourg",
+        "Sacred Heart University Luxembourg",
+        "European Institute of Public Administration",
+        "Luxembourg School of Business",
+        "Lunex University"
+      ]
+    },
+    {
+      "name": "Madagascar",
+      "institutions": [
+        "University of Antananarivo",
+        "University of Mahajanga",
+        "University of Fianarantsoa",
+        "University of Toamasina",
+        "University of Toliara",
+        "Catholic University of Madagascar",
+        "Institut Supérieur de la Communication, des Affaires et du Management"
+      ]
+    },
+    {
+      "name": "Malawi",
+      "institutions": [
+        "University of Malawi",
+        "Malawi University of Science and Technology",
+        "Mzuzu University",
+        "Lilongwe University of Agriculture and Natural Resources",
+        "Catholic University of Malawi",
+        "Malawi Adventist University",
+        "University of Livingstonia"
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "institutions": [
+        "University of Malaya",
+        "Universiti Sains Malaysia",
+        "Universiti Putra Malaysia",
+        "Universiti Kebangsaan Malaysia",
+        "Universiti Teknologi Malaysia",
+        "Universiti Teknologi PETRONAS",
+        "Monash University Malaysia",
+        "Universiti Utara Malaysia",
+        "Taylor's University",
+        "UCSI University"
+      ]
+    },
+    {
+      "name": "Maldives",
+      "institutions": [
+        "Maldives National University",
+        "Islamic University of Maldives",
+        "Villa College",
+        "Cyryx College",
+        "Mandhu College"
+      ]
+    },
+    {
+      "name": "Mali",
+      "institutions": [
+        "University of Bamako",
+        "University of Ségou",
+        "University of Sikasso",
+        "University of Timbuktu",
+        "University of Gao",
+        "University of Social Sciences and Management of Bamako",
+        "Catholic University of Mali"
+      ]
+    },
+    {
+      "name": "Malta",
+      "institutions": [
+        "University of Malta",
+        "Malta College of Arts, Science and Technology",
+        "American University of Malta",
+        "European Graduate School - Malta Campus",
+        "Queen Mary University of London - Malta Campus",
+        "Middlesex University Malta",
+        "Barts and The London School of Medicine and Dentistry - Malta"
+      ]
+    },
+    {
+      "name": "Marshall Islands",
+      "institutions": [
+        "University of the South Pacific - Marshall Islands Campus",
+        "College of the Marshall Islands"
+      ]
+    },
+    {
+      "name": "Mauritania",
+      "institutions": [
+        "University of Nouakchott Al Aasriya",
+        "Higher Institute of Islamic Studies and Research",
+        "Higher Institute of Technical Education",
+        "Higher Teacher Training College"
+      ]
+    },
+    {
+      "name": "Mauritius",
+      "institutions": [
+        "University of Mauritius",
+        "University of Technology, Mauritius",
+        "Open University of Mauritius",
+        "Université des Mascareignes",
+        "Middlesex University Mauritius",
+        "Charles Telfair Institute",
+        "Mauritius Institute of Education"
+      ]
+    },
+    {
+      "name": "Mexico",
+      "institutions": [
+        "National Autonomous University of Mexico",
+        "Monterrey Institute of Technology and Higher Education",
+        "Universidad Iberoamericana",
+        "National Polytechnic Institute",
+        "Mexico City Metropolitan Autonomous University",
+        "Universidad Autónoma de Nuevo León",
+        "Universidad de Guadalajara",
+        "Universidad Autónoma Metropolitana",
+        "El Colegio de México",
+        "ITAM"
+      ]
+    },
+    {
+      "name": "Micronesia",
+      "institutions": [
+        "College of Micronesia-FSM",
+        "University of the South Pacific - Micronesia Campus"
+      ]
+    },
+    {
+      "name": "Moldova",
+      "institutions": [
+        "Moldova State University",
+        "Technical University of Moldova",
+        "Nicolae Testemițanu State University of Medicine and Pharmacy",
+        "Academy of Economic Studies of Moldova",
+        "Free International University of Moldova",
+        "State Agrarian University of Moldova",
+        "State Pedagogical University Ion Creangă"
+      ]
+    },
+    {
+      "name": "Monaco",
+      "institutions": [
+        "International University of Monaco"
+      ]
+    },
+    {
+      "name": "Mongolia",
+      "institutions": [
+        "National University of Mongolia",
+        "Mongolian University of Science and Technology",
+        "Mongolian National University of Medical Sciences",
+        "Mongolian State University of Education",
+        "Mongolian State University of Agriculture",
+        "Ulaanbaatar University",
+        "University of the Humanities"
+      ]
+    },
+    {
+      "name": "Montenegro",
+      "institutions": [
+        "University of Montenegro",
+        "University of Donja Gorica",
+        "Mediterranean University",
+        "University of Adriatic Bar"
+      ]
+    },
+    {
+      "name": "Morocco",
+      "institutions": [
+        "Mohammed V University",
+        "Cadi Ayyad University",
+        "Hassan II University of Casablanca",
+        "Al Akhawayn University",
+        "Mohamed First University",
+        "Mohammed VI Polytechnic University",
+        "International University of Rabat",
+        "Ibn Tofail University",
+        "Abdelmalek Essaâdi University"
+      ]
+    },
+    {
+      "name": "Mozambique",
+      "institutions": [
+        "Eduardo Mondlane University",
+        "Catholic University of Mozambique",
+        "Pedagogical University of Mozambique",
+        "Higher Institute of Sciences and Technology of Mozambique",
+        "University of Zambezi",
+        "Technical University of Mozambique",
+        "Instituto Superior de Ciências e Tecnologia de Moçambique"
+      ]
+    },
+    {
+      "name": "Myanmar",
+      "institutions": [
+        "University of Yangon",
+        "University of Mandalay",
+        "Yangon Technological University",
+        "University of Computer Studies, Yangon",
+        "Myanmar Maritime University",
+        "Yangon University of Economics",
+        "University of Medical Technology, Yangon",
+        "Mandalay Technological University"
+      ]
+    },
+    {
+      "name": "Namibia",
+      "institutions": [
+        "University of Namibia",
+        "Namibia University of Science and Technology",
+        "International University of Management",
+        "Namibia Business School",
+        "Welwitchia University"
+      ]
+    },
+    {
+      "name": "Nauru",
+      "institutions": [
+        "University of the South Pacific - Nauru Campus"
+      ]
+    },
+    {
+      "name": "Nepal",
+      "institutions": [
+        "Tribhuvan University",
+        "Kathmandu University",
+        "Pokhara University",
+        "Purbanchal University",
+        "Nepal Sanskrit University",
+        "Mid-Western University",
+        "Far Western University",
+        "Agriculture and Forestry University"
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "institutions": [
+        "University of Amsterdam",
+        "Delft University of Technology",
+        "Utrecht University",
+        "Leiden University",
+        "University of Groningen",
+        "Erasmus University Rotterdam",
+        "Wageningen University & Research",
+        "Maastricht University",
+        "Vrije Universiteit Amsterdam",
+        "Radboud University Nijmegen"
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "institutions": [
+        "University of Auckland",
+        "University of Otago",
+        "University of Canterbury",
+        "Victoria University of Wellington",
+        "University of Waikato",
+        "Massey University",
+        "Auckland University of Technology",
+        "Lincoln University"
+      ]
+    },
+    {
+      "name": "Nicaragua",
+      "institutions": [
+        "National Autonomous University of Nicaragua, Managua",
+        "National Autonomous University of Nicaragua, León",
+        "Universidad Centroamericana",
+        "National University of Engineering",
+        "Universidad Nacional Agraria",
+        "Ave Maria University Latin American Campus",
+        "Universidad Americana",
+        "Universidad Politécnica de Nicaragua"
+      ]
+    },
+    {
+      "name": "Niger",
+      "institutions": [
+        "Abdou Moumouni University",
+        "Islamic University of Niger",
+        "University of Zinder",
+        "University of Tahoua",
+        "University of Diffa",
+        "University of Agadez"
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "institutions": [
+        "University of Ibadan",
+        "University of Lagos",
+        "Obafemi Awolowo University",
+        "University of Nigeria, Nsukka",
+        "Ahmadu Bello University",
+        "University of Ilorin",
+        "Covenant University",
+        "University of Port Harcourt",
+        "Federal University of Technology, Akure",
+        "University of Benin"
+      ]
+    },
+    {
+      "name": "North Korea",
+      "institutions": [
+        "Kim Il-sung University",
+        "Kim Chaek University of Technology",
+        "Pyongyang University of Science and Technology",
+        "Wonsan University of Agriculture",
+        "Pyongyang Medical University",
+        "Pyongyang University of Foreign Studies",
+        "Hamhung University of Chemical Engineering",
+        "Chongjin Mining and Metallurgical Institute"
+      ]
+    },
+    {
+      "name": "North Macedonia",
+      "institutions": [
+        "Ss. Cyril and Methodius University of Skopje",
+        "St. Kliment Ohridski University of Bitola",
+        "Goce Delčev University of Štip",
+        "South East European University",
+        "FON University",
+        "European University",
+        "International Balkan University",
+        "University American College Skopje"
+      ]
+    },
+    {
+      "name": "Norway",
+      "institutions": [
+        "University of Oslo",
+        "Norwegian University of Science and Technology",
+        "University of Bergen",
+        "UiT The Arctic University of Norway",
+        "Norwegian University of Life Sciences",
+        "BI Norwegian Business School",
+        "University of Stavanger",
+        "University of Agder",
+        "Norwegian School of Economics"
+      ]
+    },
+    {
+      "name": "Oman",
+      "institutions": [
+        "Sultan Qaboos University",
+        "University of Nizwa",
+        "Dhofar University",
+        "Sohar University",
+        "National University of Science and Technology",
+        "German University of Technology in Oman",
+        "A'Sharqiyah University",
+        "Middle East College"
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "institutions": [
+        "Quaid-i-Azam University",
+        "Pakistan Institute of Engineering and Applied Sciences",
+        "Lahore University of Management Sciences",
+        "National University of Sciences and Technology",
+        "University of the Punjab",
+        "Aga Khan University",
+        "University of Karachi",
+        "COMSATS University Islamabad",
+        "Government College University, Lahore",
+        "University of Engineering and Technology, Lahore"
+      ]
+    },
+    {
+      "name": "Palau",
+      "institutions": [
+        "Palau Community College"
+      ]
+    },
+    {
+      "name": "Palestine",
+      "institutions": [
+        "An-Najah National University",
+        "Birzeit University",
+        "Islamic University of Gaza",
+        "Al-Quds University",
+        "Palestine Polytechnic University",
+        "Hebron University",
+        "Al-Aqsa University",
+        "Bethlehem University",
+        "Palestine Technical University - Kadoorie"
+      ]
+    },
+    {
+      "name": "Panama",
+      "institutions": [
+        "University of Panama",
+        "Technological University of Panama",
+        "Universidad Latina de Panamá",
+        "Universidad Interamericana de Panamá",
+        "ISAE University",
+        "Universidad Católica Santa María la Antigua",
+        "Universidad Especializada de las Américas",
+        "Quality Leadership University"
+      ]
+    },
+    {
+      "name": "Papua New Guinea",
+      "institutions": [
+        "University of Papua New Guinea",
+        "Papua New Guinea University of Technology",
+        "Pacific Adventist University",
+        "Divine Word University",
+        "University of Goroka",
+        "University of Natural Resources and Environment",
+        "Pacific Adventist University"
+      ]
+    },
+    {
+      "name": "Paraguay",
+      "institutions": [
+        "National University of Asunción",
+        "Catholic University of Asunción",
+        "American University of Asunción",
+        "Universidad Nacional del Este",
+        "Universidad Columbia del Paraguay",
+        "Universidad Autónoma de Asunción",
+        "Universidad del Norte",
+        "Universidad Nacional de Itapúa"
+      ]
+    },
+    {
+      "name": "Peru",
+      "institutions": [
+        "Pontifical Catholic University of Peru",
+        "National University of San Marcos",
+        "Universidad Peruana Cayetano Heredia",
+        "Universidad Nacional Agraria La Molina",
+        "Universidad Nacional de Ingeniería",
+        "Universidad del Pacífico",
+        "University of Lima",
+        "Universidad de Piura",
+        "Universidad San Ignacio de Loyola",
+        "Universidad ESAN"
+      ]
+    },
+    {
+      "name": "Philippines",
+      "institutions": [
+        "University of the Philippines",
+        "Ateneo de Manila University",
+        "De La Salle University",
+        "University of Santo Tomas",
+        "Mapúa University",
+        "University of San Carlos",
+        "Silliman University",
+        "Xavier University - Ateneo de Cagayan",
+        "Mindanao State University",
+        "Central Luzon State University"
+      ]
+    },
+    {
+      "name": "Poland",
+      "institutions": [
+        "University of Warsaw",
+        "Jagiellonian University",
+        "Warsaw University of Technology",
+        "AGH University of Science and Technology",
+        "Adam Mickiewicz University",
+        "Wrocław University of Science and Technology",
+        "University of Wrocław",
+        "Gdańsk University of Technology",
+        "Medical University of Warsaw",
+        "Kozminski University"
+      ]
+    },
+    {
+      "name": "Portugal",
+      "institutions": [
+        "University of Lisbon",
+        "University of Porto",
+        "University of Coimbra",
+        "NOVA University Lisbon",
+        "University of Aveiro",
+        "University of Minho",
+        "ISCTE – University Institute of Lisbon",
+        "Catholic University of Portugal",
+        "University of Algarve",
+        "University of Beira Interior"
+      ]
+    },
+    {
+      "name": "Qatar",
+      "institutions": [
+        "Qatar University",
+        "Hamad Bin Khalifa University",
+        "Texas A&M University at Qatar",
+        "Weill Cornell Medicine-Qatar",
+        "Carnegie Mellon University in Qatar",
+        "Georgetown University in Qatar",
+        "Northwestern University in Qatar",
+        "Virginia Commonwealth University School of the Arts in Qatar",
+        "University College London Qatar"
+      ]
+    },
+    {
+      "name": "Romania",
+      "institutions": [
+        "University of Bucharest",
+        "Babeș-Bolyai University",
+        "Alexandru Ioan Cuza University",
+        "Bucharest University of Economic Studies",
+        "Politehnica University of Bucharest",
+        "Technical University of Cluj-Napoca",
+        "Carol Davila University of Medicine and Pharmacy",
+        "West University of Timișoara",
+        "Gheorghe Asachi Technical University of Iași"
+      ]
+    },
+    {
+      "name": "Russia",
+      "institutions": [
+        "Lomonosov Moscow State University",
+        "Moscow Institute of Physics and Technology",
+        "Saint Petersburg State University",
+        "Novosibirsk State University",
+        "Tomsk State University",
+        "ITMO University",
+        "Higher School of Economics",
+        "Bauman Moscow State Technical University",
+        "Moscow Engineering Physics Institute",
+        "Kazan Federal University"
+      ]
+    },
+    {
+      "name": "Rwanda",
+      "institutions": [
+        "University of Rwanda",
+        "Rwanda Polytechnic",
+        "Kigali Independent University",
+        "Mount Kenya University Rwanda",
+        "Adventist University of Central Africa",
+        "University of Kigali",
+        "African Leadership University",
+        "Carnegie Mellon University Africa"
+      ]
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "institutions": [
+        "University of the West Indies",
+        "Ross University School of Veterinary Medicine",
+        "Windsor University School of Medicine",
+        "University of Medicine and Health Sciences",
+        "St. Theresa's Medical University"
+      ]
+    },
+    {
+      "name": "Saint Lucia",
+      "institutions": [
+        "University of the West Indies",
+        "Sir Arthur Lewis Community College",
+        "Spartan Health Sciences University",
+        "International American University College of Medicine"
+      ]
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "institutions": [
+        "Saint Vincent and the Grenadines Community College",
+        "Trinity School of Medicine",
+        "All Saints University School of Medicine",
+        "American University of St. Vincent"
+      ]
+    },
+    {
+      "name": "Samoa",
+      "institutions": [
+        "National University of Samoa",
+        "University of the South Pacific - Samoa Campus",
+        "Oceania University of Medicine"
+      ]
+    },
+    {
+      "name": "San Marino",
+      "institutions": [
+        "University of the Republic of San Marino"
+      ]
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "institutions": [
+        "University of São Tomé and Príncipe",
+        "Lusíada University of São Tomé and Príncipe"
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "institutions": [
+        "King Abdulaziz University",
+        "King Saud University",
+        "King Abdullah University of Science and Technology",
+        "King Fahd University of Petroleum and Minerals",
+        "Alfaisal University",
+        "King Khalid University",
+        "Princess Nourah bint Abdulrahman University",
+        "Umm Al-Qura University",
+        "Islamic University of Madinah",
+        "Prince Mohammad bin Fahd University"
+      ]
+    },
+    {
+      "name": "Senegal",
+      "institutions": [
+        "Cheikh Anta Diop University",
+        "University of Thiès",
+        "Gaston Berger University",
+        "Alioune Diop University",
+        "Virtual University of Senegal",
+        "Dakar Bourguiba University",
+        "Suffolk University Dakar Campus"
+      ]
+    },
+    {
+      "name": "Serbia",
+      "institutions": [
+        "University of Belgrade",
+        "University of Novi Sad",
+        "University of Niš",
+        "University of Kragujevac",
+        "Singidunum University",
+        "Metropolitan University",
+        "Union University",
+        "University Business Academy in Novi Sad"
+      ]
+    },
+    {
+      "name": "Seychelles",
+      "institutions": [
+        "University of Seychelles",
+        "Seychelles Institute of Technology",
+        "Seychelles Tourism Academy",
+        "UniSey"
+      ]
+    },
+    {
+      "name": "Sierra Leone",
+      "institutions": [
+        "University of Sierra Leone",
+        "Njala University",
+        "University of Makeni",
+        "Limkokwing University of Creative Technology - Sierra Leone",
+        "Eastern Polytechnic",
+        "Ernest Bai Koroma University of Science and Technology"
+      ]
+    },
+    {
+      "name": "Singapore",
+      "institutions": [
+        "National University of Singapore",
+        "Nanyang Technological University",
+        "Singapore Management University",
+        "Singapore University of Technology and Design",
+        "Singapore Institute of Technology",
+        "Singapore University of Social Sciences",
+        "INSEAD Singapore",
+        "James Cook University Singapore",
+        "Yale-NUS College"
+      ]
+    },
+    {
+      "name": "Slovakia",
+      "institutions": [
+        "Comenius University in Bratislava",
+        "Slovak University of Technology in Bratislava",
+        "Pavol Jozef Šafárik University in Košice",
+        "Technical University of Košice",
+        "University of Economics in Bratislava",
+        "University of Žilina",
+        "Matej Bel University",
+        "Constantine the Philosopher University in Nitra"
+      ]
+    },
+    {
+      "name": "Slovenia",
+      "institutions": [
+        "University of Ljubljana",
+        "University of Maribor",
+        "University of Primorska",
+        "University of Nova Gorica",
+        "IEDC-Bled School of Management",
+        "GEA College",
+        "DOBA Business School"
+      ]
+    },
+    {
+      "name": "Solomon Islands",
+      "institutions": [
+        "Solomon Islands National University",
+        "University of the South Pacific - Solomon Islands Campus",
+        "Pacific Adventist University - Solomon Islands"
+      ]
+    },
+    {
+      "name": "Somalia",
+      "institutions": [
+        "Somali National University",
+        "Mogadishu University",
+        "East Africa University",
+        "University of Hargeisa",
+        "Amoud University",
+        "Puntland State University",
+        "SIMAD University"
+      ]
+    },
+    {
+      "name": "South Africa",
+      "institutions": [
+        "University of Cape Town",
+        "University of the Witwatersrand",
+        "Stellenbosch University",
+        "University of Pretoria",
+        "University of KwaZulu-Natal",
+        "University of Johannesburg",
+        "North-West University",
+        "University of the Western Cape",
+        "Rhodes University",
+        "University of South Africa"
+      ]
+    },
+    {
+      "name": "South Korea",
+      "institutions": [
+        "Seoul National University",
+        "Korea Advanced Institute of Science and Technology",
+        "Pohang University of Science and Technology",
+        "Yonsei University",
+        "Korea University",
+        "Sungkyunkwan University",
+        "Hanyang University",
+        "Kyung Hee University",
+        "Ewha Womans University",
+        "Sogang University"
+      ]
+    },
+    {
+      "name": "South Sudan",
+      "institutions": [
+        "University of Juba",
+        "Upper Nile University",
+        "University of Bahr El-Ghazal",
+        "Dr. John Garang Memorial University of Science and Technology",
+        "Rumbek University",
+        "Catholic University of South Sudan"
+      ]
+    },
+    {
+      "name": "Spain",
+      "institutions": [
+        "University of Barcelona",
+        "Autonomous University of Madrid",
+        "Complutense University of Madrid",
+        "Pompeu Fabra University",
+        "University of Navarra",
+        "Autonomous University of Barcelona",
+        "IE University",
+        "University of Valencia",
+        "University of Granada",
+        "Polytechnic University of Catalonia"
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "institutions": [
+        "University of Colombo",
+        "University of Peradeniya",
+        "University of Moratuwa",
+        "University of Sri Jayewardenepura",
+        "University of Kelaniya",
+        "University of Jaffna",
+        "University of Ruhuna",
+        "Open University of Sri Lanka",
+        "Sri Lanka Institute of Information Technology",
+        "South Asian Institute of Technology and Medicine"
+      ]
+    },
+    {
+      "name": "Sudan",
+      "institutions": [
+        "University of Khartoum",
+        "Sudan University of Science and Technology",
+        "Alzaiem Alazhari University",
+        "Omdurman Islamic University",
+        "University of Gezira",
+        "Ahfad University for Women",
+        "University of Medical Sciences and Technology",
+        "International University of Africa"
+      ]
+    },
+    {
+      "name": "Suriname",
+      "institutions": [
+        "Anton de Kom University of Suriname",
+        "FHR School of Business",
+        "Polytechnic College Suriname",
+        "SAIS Institute for Information and Computer Studies"
+      ]
+    },
+    {
+      "name": "Sweden",
+      "institutions": [
+        "Karolinska Institute",
+        "Lund University",
+        "Uppsala University",
+        "Stockholm University",
+        "KTH Royal Institute of Technology",
+        "University of Gothenburg"
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "institutions": [
+        "ETH Zurich",
+        "École Polytechnique Fédérale de Lausanne",
+        "University of Zurich",
+        "University of Geneva",
+        "University of Bern",
+        "University of Basel",
+        "University of Lausanne",
+        "University of Fribourg",
+        "University of St. Gallen"
+      ]
+    },
+    {
+      "name": "Syria",
+      "institutions": [
+        "Damascus University",
+        "Aleppo University",
+        "Tishreen University",
+        "Al-Baath University",
+        "Lattakia University"
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "institutions": [
+        "National Taiwan University",
+        "National Cheng Kung University",
+        "National Tsing Hua University",
+        "National Yang Ming Chiao Tung University",
+        "National Central University",
+        "National Sun Yat-sen University",
+        "National Chiao Tung University",
+        "National Taiwan University of Science and Technology",
+        "National Taipei University of Technology",
+        "National Taiwan Normal University"
+      ]
+    },
+    {
+      "name": "Tajikistan",
+      "institutions": [
+        "Tajik National University",
+        "Technological University of Tajikistan",
+        "Tajik State University of Law, Business and Politics",
+        "Khorog State University",
+        "Khujand State University"
+      ]
+    },
+    {
+      "name": "Tanzania",
+      "institutions": [
+        "University of Dar es Salaam",
+        "Nelson Mandela African Institute of Science and Technology",
+        "Muhimbili University of Health and Allied Sciences",
+        "St. Augustine University of Tanzania",
+        "Ardhi University",
+        "Mbeya University of Science and Technology"
+      ]
+    },
+    {
+      "name": "Thailand",
+      "institutions": [
+        "Chulalongkorn University",
+        "Mahidol University",
+        "Kasetsart University",
+        "Chiang Mai University",
+        "Thammasat University",
+        "King Mongkut's Institute of Technology Ladkrabang",
+        "King Mongkut's University of Technology Thonburi"
+      ]
+    },
+    {
+      "name": "Timor-Leste",
+      "institutions": [
+        "National University of Timor-Leste",
+        "Universidade Nacional de Timor Lorosa'e",
+        "Universidade da Paz",
+        "Universidade de São José",
+        "Universidade de Díli",
+        "Universidade Católica de Timor-Leste"
+      ]
+    },
+    {
+      "name": "Togo",
+      "institutions": [
+        "University of Lomé",
+        "University of Kara",
+        "Université de la Paix",
+        "Université de l'Environnement et du Développement Durable"
+      ]
+    },
+    {
+      "name": "Tonga",
+      "institutions": [
+        "University of the South Pacific - Tonga Campus",
+        "Tonga Institute of Higher Education"
+      ]
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "institutions": [
+        "University of the West Indies",
+        "University of Trinidad and Tobago",
+        "Arthur Lok Jack Global School of Business",
+        "College of Science, Technology and Applied Arts of Trinidad and Tobago"
+      ]
+    },
+    {
+      "name": "Tunisia",
+      "institutions": [
+        "University of Tunis El Manar",
+        "University of Carthage",
+        "University of Sfax",
+        "University of Monastir",
+        "University of Kairouan"
+      ]
+    },
+    {
+      "name": "Turkey",
+      "institutions": [
+        "Bogazici University",
+        "Middle East Technical University",
+        "Istanbul Technical University",
+        "Koç University",
+        "Sabancı University",
+        "Hacettepe University",
+        "Istanbul University",
+        "Ankara University",
+        "Istanbul Sehir University",
+        "Izmir Institute of Technology"
+      ]
+    },
+    {
+      "name": "Turkmenistan",
+      "institutions": [
+        "Turkmen State University",
+        "Turkmen Agricultural University",
+        "Turkmen State Institute of Economics and Management",
+        "Turkmen State Institute of Architecture and Construction"
+      ]
+    },
+    {
+      "name": "Tuvalu",
+      "institutions": [
+        "University of the South Pacific - Tuvalu Campus"
+      ]
+    },
+    {
+      "name": "Uganda",
+      "institutions": [
+        "Makerere University",
+        "Mbarara University of Science and Technology",
+        "Kyambogo University",
+        "Gulu University",
+        "Nkumba University",
+        "Uganda Martyrs University",
+        "Islamic University in Uganda",
+        "Busitema University",
+        "Uganda Christian University",
+        "Ndejje University"
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "institutions": [
+        "Taras Shevchenko National University of Kyiv",
+        "National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
+        "Lviv Polytechnic National University",
+        "Kharkiv National University of Radioelectronics",
+        "Odesa National Polytechnic University",
+        "National University of Kyiv-Mohyla Academy",
+        "Sumy State University",
+        "V.N. Karazin Kharkiv National University"
+      ]
+    },
+    {
+      "name": "United Arab Emirates",
+      "institutions": [
+        "United Arab Emirates University",
+        "American University of Sharjah",
+        "Khalifa University",
+        "University of Sharjah",
+        "Zayed University",
+        "Abu Dhabi University",
+        "Al Ain University of Science and Technology"
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "institutions": [
+        "University of Oxford",
+        "University of Cambridge",
+        "Imperial College London",
+        "London School of Economics and Political Science",
+        "University College London",
+        "University of Edinburgh",
+        "King's College London",
+        "University of Manchester",
+        "University of Bristol",
+        "University of Glasgow"
+      ]
+    },
+    {
+      "name": "United States",
+      "institutions": [
+        "Harvard University",
+        "Stanford University",
+        "Massachusetts Institute of Technology",
+        "California Institute of Technology",
+        "University of Chicago",
+        "Columbia University",
+        "Yale University",
+        "Princeton University",
+        "University of Pennsylvania",
+        "Johns Hopkins University"
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "institutions": [
+        "University of the Republic (Uruguay)",
+        "Catholic University of Uruguay",
+        "Universidad ORT Uruguay",
+        "Universidad de la República Oriental del Uruguay"
+      ]
+    },
+    {
+      "name": "Uzbekistan",
+      "institutions": [
+        "National University of Uzbekistan",
+        "Tashkent State Technical University",
+        "Samarkand State University",
+        "Tashkent Medical Academy",
+        "Andijan State University"
+      ]
+    },
+    {
+      "name": "Vanuatu",
+      "institutions": [
+        "University of the South Pacific - Vanuatu Campus"
+      ]
+    },
+    {
+      "name": "Vatican City",
+      "institutions": [
+        "Pontifical Gregorian University",
+        "Pontifical Lateran University"
+      ]
+    },
+    {
+      "name": "Venezuela",
+      "institutions": [
+        "Central University of Venezuela",
+        "Simón Bolívar University",
+        "University of the Andes (Venezuela)",
+        "University of Zulia",
+        "University of Carabobo",
+        "University of Los Andes (Venezuela)",
+        "University of the Andes (Venezuela)",
+        "University of the Andes (Venezuela)"
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "institutions": [
+        "Vietnam National University, Hanoi",
+        "Vietnam National University, Ho Chi Minh City",
+        "Hanoi University of Science and Technology",
+        "University of Danang - University of Science and Technology",
+        "Hanoi University of Mining and Geology",
+        "University of Danang - University of Economics",
+        "Hanoi University of Agriculture"
+      ]
+    },
+    {
+      "name": "Yemen",
+      "institutions": [
+        "Sana'a University",
+        "Aden University",
+        "Taiz University",
+        "Hadhramout University of Science and Technology",
+        "Al-Bayda University"
+      ]
+    },
+    {
+      "name": "Zambia",
+      "institutions": [
+        "University of Zambia",
+        "Copperbelt University",
+        "Mulungushi University",
+        "Lusaka Apex Medical University",
+        "Zambia Centre for Accountancy Studies"
+      ]
+    },
+    {
+      "name": "Zimbabwe",
+      "institutions": [
+        "University of Zimbabwe",
+        "National University of Science and Technology (Zimbabwe)",
+        "Chinhoyi University of Technology",
+        "Midlands State University",
+        "Bindura University of Science Education",
+        "Great Zimbabwe University",
+        "Harare Institute of Technology",
+        "Africa University",
+        "Nust",
+        "University of Fort Hare"
+      ]
+    }
+  ]
+  }
