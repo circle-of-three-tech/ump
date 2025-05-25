@@ -4,6 +4,8 @@ import { useEffect, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { useSession } from 'next-auth/react';
 import Link from 'next/link';
+import { Button } from '@/components/ui/button';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 export default function VerifyEmail() {
   const router = useRouter();
@@ -44,7 +46,7 @@ export default function VerifyEmail() {
 
         setStatus('success');
         setMessage('Email verified successfully!');
-        
+
         // Redirect to sign in page after 3 seconds
         setTimeout(() => {
           router.push('/auth/signin');
@@ -65,42 +67,50 @@ export default function VerifyEmail() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-md w-full space-y-8 text-center">
-        {status === 'loading' && (
-          <div className="animate-pulse">
-            <h2 className="text-2xl font-bold text-gray-900">
-              {message}
-            </h2>
-          </div>
-        )}
-
-        {status === 'success' && (
-          <div>
-            <h2 className="text-2xl font-bold text-green-600">
-              {message}
-            </h2>
-            <p className="mt-2 text-gray-600">
-              Redirecting you to sign in...
-            </p>
-          </div>
-        )}
-
-        {status === 'error' && (
-          <div>
-            <h2 className="text-2xl font-bold text-red-600">
-              {message}
-            </h2>
-            <div className="mt-4">
-              <Link
-                href="/auth/signin"
-                className="text-indigo-600 hover:text-indigo-500"
-              >
-                Return to sign in
-              </Link>
+      <Card className="w-full max-w-md">
+        <CardHeader className="text-center">
+          <CardTitle className="text-2xl">Email Verification</CardTitle>
+        </CardHeader>
+        <CardContent>
+          {status === 'loading' && (
+            <div className="text-center">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600 mx-auto"></div>
+              <p className="mt-4 text-gray-600">{message}</p>
             </div>
-          </div>
-        )}
-      </div>
+          )}
+
+          {status === 'success' && (
+            <div className="text-center">
+              <div className="rounded-full h-12 w-12 bg-green-100 flex items-center justify-center mx-auto">
+                <svg className="h-6 w-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                </svg>
+              </div>
+              <h2 className="mt-4 text-xl font-semibold text-green-600">{message}</h2>
+              <p className="mt-2 text-gray-600">Redirecting you to sign in...</p>
+            </div>
+          )}
+
+          {status === 'error' && (
+            <div className="text-center">
+              <div className="rounded-full h-12 w-12 bg-red-100 flex items-center justify-center mx-auto">
+                <svg className="h-6 w-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+              </div>
+              <h2 className="mt-4 text-xl font-semibold text-red-600">{message}</h2>
+              <div className="mt-6">
+                <Button
+                  variant="outline"
+                  asChild
+                >
+                  <Link href="/auth/signin">Return to sign in</Link>
+                </Button>
+              </div>
+            </div>
+          )}
+        </CardContent>
+      </Card>
     </div>
   );
 }

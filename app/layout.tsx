@@ -1,19 +1,24 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
 import { Providers } from "./providers";
+import { Header } from "./components/layout/Header";
+import { ErrorBoundary } from "./components/ErrorBoundary";
+import { NavigationEvents } from "./components/NavigationEvents";
 import "./globals.css";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import RouteChangeLoader from "./components/RouteChangeLoader";
 
-const inter = Inter({
+const geistSans = Geist({
+  variable: "--font-geist-sans",
   subsets: ["latin"],
-  variable: "--font-inter",
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "UMP",
-  description: "Your campus marketplace",
+  title: "UniMarkets - University Student Marketplace",
+  description: "Buy, sell, and swap items securely within your university community",
 };
 
 export default function RootLayout({
@@ -22,17 +27,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${inter.variable} font-sans antialiased`}>
+    <html lang="en" suppressHydrationWarning>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-background font-sans antialiased`}
+      >
         <Providers>
-          <div className="flex flex-col min-h-screen">
+          <ErrorBoundary>
+            <NavigationEvents />
             <Header />
-            <RouteChangeLoader />
-            <main className="flex-1 w-full max-w-7xl mx-auto px-safe-left px-safe-right">
+            <main className="container mx-auto py-4 px-4">
               {children}
             </main>
-            <Footer />
-          </div>
+          </ErrorBoundary>
         </Providers>
       </body>
     </html>

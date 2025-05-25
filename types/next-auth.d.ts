@@ -1,26 +1,25 @@
-import 'next-auth';
+import NextAuth from 'next-auth';
 
 declare module 'next-auth' {
   interface Session {
     user: {
       id: string;
-      name?: string | null;
+      fullName?: string | null;
       email?: string | null;
-      image?: string | null;
-      university?: string | null;
-      bio?: string | null;
-      is_verified?: boolean;
-    }
+      profileImage?: string | null;
+      isVerified?: boolean;
+      verificationStatus?: 'VERIFIED' | 'PENDING' | 'UNDER_REVIEW' | 'REJECTED'; 
+      role: 'USER' | 'ADMIN' | 'MODERATOR';
+    };
   }
-
+  
   interface User {
     id: string;
-    email: string;
-    full_name: string;
-    university: string;
-    bio?: string;
-    profile_image?: string;
-    is_verified: boolean;
-    verification_status: string;
+    fullName?: string | null;
+    email?: string | null;
+    profileImage?: string | null;
+    isVerified?: boolean;
+    verificationStatus?: 'VERIFIED' | 'PENDING' | 'UNDER_REVIEW' | 'REJECTED'; 
+    role: 'USER' | 'ADMIN' | 'MODERATOR';
   }
 }
